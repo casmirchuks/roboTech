@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/roboTech/static/css/main.b9aa852a.chunk.css",
+    "main.js": "/roboTech/static/js/main.e24af917.chunk.js",
+    "main.js.map": "/roboTech/static/js/main.e24af917.chunk.js.map",
+    "runtime-main.js": "/roboTech/static/js/runtime-main.243d792c.js",
+    "runtime-main.js.map": "/roboTech/static/js/runtime-main.243d792c.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/roboTech/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.0f28cf9b.chunk.js": "/roboTech/static/js/2.0f28cf9b.chunk.js",
+    "static/js/2.0f28cf9b.chunk.js.map": "/roboTech/static/js/2.0f28cf9b.chunk.js.map",
+    "index.html": "/roboTech/index.html",
+    "precache-manifest.cb33cfe345e743903f204b72b14b53d0.js": "/roboTech/precache-manifest.cb33cfe345e743903f204b72b14b53d0.js",
+    "service-worker.js": "/roboTech/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/roboTech/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.b9aa852a.chunk.css.map": "/roboTech/static/css/main.b9aa852a.chunk.css.map",
+    "static/js/2.0f28cf9b.chunk.js.LICENSE.txt": "/roboTech/static/js/2.0f28cf9b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/roboTech/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.243d792c.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.0f28cf9b.chunk.js",
+    "static/css/main.b9aa852a.chunk.css",
+    "static/js/main.e24af917.chunk.js"
+  ]
+}
